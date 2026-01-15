@@ -25,3 +25,5 @@ echo 'TMDB_BASE_URL=https://api.themoviedb.org/3/' >> local.properties
 ```sh
 ./gradlew :composeApp:installDebug
 ```
+
+or u can just install .apk
